@@ -15,7 +15,8 @@ def introduction():
 def python_basics():
     st.header("Python Basics")
     st.write("""Python is an easy-to-learn, powerful programming language. It has efficient high-level data structures
-    and a simple but effective approach to object-oriented programming.
+    and a simple but effective approach to object-oriented programming bla bla bla ....
+    😅
     """)
     
     st.subheader("1. Variables and Data Types")
