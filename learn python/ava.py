@@ -5,10 +5,11 @@ import numpy as np
 
 # Function to display Python introduction
 def introduction():
-    st.header("Welcome to Python Learning App")
-    st.write("""Python is a versatile programming language used for web development, data science, automation, and more.
-    This app will help you learn Python from scratch with interactive examples and visual explanations.
+    st.header("Welcome to Python Learning App ")
+    st.write("""I have prepared a simple and effective way to learn python basics to adv easily
+    just read and test these codes and learn
     """)
+    st.write("by Midhun")
 
 # Function to display Python basics
 def python_basics():
